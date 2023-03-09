@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Proper-Stevo
-- 👀 I’m a full stack developer.
-- 🌱 I’m currently learning react, already learned JavaScript, HTML, CSS.
+## 👋 Hi, I’m @Proper-Stevo
+- 👀 I’m a full stack developer.(MERN)
+- 🌱 I’m currently developing app's on Adobe Connect.
 - 💞️ I’m looking to collaborate on any project that will help improve my skills.
 - 📫 How to reach me to code better.
 ### Languages & Tools
